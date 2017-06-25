@@ -1,1 +1,61 @@
 # react-starter
+React starter project for Nozzmo's projects. This template contains our opinion on libraries and source code distribution for react/redux new projects.
+
+## Libraries
+- dateformat
+- font-awesome
+- history
+- is empty object
+- jwt decode
+- normalizr
+- nozzmo's redux jwt
+- react
+- react router
+- react router redux
+- redux
+- redux auth wrapper
+- redux dev tools
+- redux form
+- redux persist
+- redux thunk
+- webpack 2
+- weed (less)
+- whatwg fetch
+
+## Dev environment
+- babel cli
+- babel core
+- babel eslint
+- babel jest
+- babel loader
+- babel plugin add module exports
+- babel plugin react html attrs
+- babel plugin transform class properties
+- babel plugin transform decorators legacy
+- babel plugin transform object rest spread
+- babel plugin transform runtime
+- babel preset es2015
+- babel preset react
+- babel preset stage 0
+- css loader
+- deep freeze
+- describe
+- enzyme
+- eslint
+- eslint loader
+- eslint plugin react
+- expect
+- extract text webpack plugin
+- file loader
+- html loader
+- html webpack plugin
+- jest
+- json loader
+- less
+- less loader
+- node sass
+- react
+- style loader
+- url loader
+- webpack
+- webpack dev server
